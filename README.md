@@ -1,2 +1,2 @@
-#Snowman project
-##Tech Stack: Python 
+# Snowman project
+## Tech Stack: Python 
